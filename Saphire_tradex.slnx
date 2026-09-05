@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="asdf/asdf.vdproj" Type="Installer">
+    <Build />
+  </Project>
+  <Project Path="Saphire_tradex/Saphire_tradex.csproj" Id="58853023-4668-42ec-8b6e-158f715e1407" />
+</Solution>
